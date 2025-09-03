@@ -1,4 +1,4 @@
-# Hi there, I'm Nitin 👋
+## Hi there, I'm Nitin 👋
 
 🎩 I'm an innovative and passionate Software Engineer with 3.5+ years of experience, currently working as an SDE II at Amazon. I specialize in designing and building scalable, high-performance applications, with hands-on expertise in AWS cloud services, DevOps tools, and full-stack development.
 
@@ -8,7 +8,7 @@
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - **💻 Programming Languages**: Java, C++, Python, Javascript.
 - **⚡ Frameworks and Libraries**: Spring Boot, REST, GraphQL, React.
@@ -19,7 +19,7 @@
 
 ---
 
-# 🌱 Always learning 
+## 🌱 Always learning 
 
 I'm currently honing my skills in 
 - **🪁 System Design at Scale** – building resilient and scalable architectures for real-world load.
@@ -28,7 +28,7 @@ I'm currently honing my skills in
 
 ---
 
-# 🌼 What keeps me buzzing
+## 🌼 What keeps me buzzing
 
 - 🛠️ Improving and scaling software at Amazon, where complexity meets creativity.
 - 🎓 An endless curiosity about cognitive science, learning methodologies, and productivity.
@@ -36,14 +36,14 @@ I'm currently honing my skills in
 
 ---
 
-# 🤝 Let's Connect 
+## 🤝 Let's Connect 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nitin-kumar-sde/)
 
 💬 Share a conversation about tech, life, or your latest read with me.
 
 ---
 
-# 🌐 Find me on 
+## 🌐 Find me on 
 
 - 🎲 [Hacker Earth](https://www.hackerearth.com/@nitin751/)
 - 👑 [Leetcode](https://leetcode.com/u/nitin007/)
