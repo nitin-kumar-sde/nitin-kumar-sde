@@ -34,12 +34,6 @@ I'm currently honing my skills in
 - 🎓 An endless curiosity about cognitive science, learning methodologies, and productivity.
 - 🤖 Fascinated by the evolving landscape of Generative AI and its real-world impact.
 
----
-
-## 🤝 Let's Connect 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nitin-kumar-sde/)
-
-💬 Share a conversation about tech, life, or your latest read with me.
 
 ---
 
