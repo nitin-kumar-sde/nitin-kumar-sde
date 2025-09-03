@@ -2,9 +2,9 @@
 
 I'm an innovative and passionate Software Engineer with 3.5+ years of experience, currently working as an SDE II at Amazon. I specialize in designing and building scalable, high-performance applications, with hands-on expertise in AWS cloud services, DevOps tools, and full-stack development.
 
-🚀 I thrive in fast-paced, Agile environments—optimizing system performance, maintaining critical services, and driving impactful technical initiatives. 
+I thrive in fast-paced, Agile environments—optimizing system performance, maintaining critical services, and driving impactful technical initiatives. 
 
-💡 Proven ability to drive technical initiatives and mentor junior engineers.
+Proven ability to drive technical initiatives and mentor junior engineers.
 
 ---
 
