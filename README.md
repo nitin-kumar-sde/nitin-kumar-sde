@@ -45,6 +45,6 @@ I'm currently honing my skills in
 
 ## 🤝 Let's Connect 
 
-- 🎲 [Hacker Earth](https://www.hackerearth.com/@nitin751/)
-- 👑 [Leetcode](https://leetcode.com/u/nitin007/)
-- ♟️ [Spoj](https://www.spoj.com/users/nitin201780361/)
+- 💼 **LinkedIn**: [Nitin Kumar](https://www.linkedin.com/in/nitin-kumar-sde/)
+- 💻 **LeetCode**: [nitin007](https://leetcode.com/u/nitin007/)
+- ♟️ **Twitter**: [nitin_sde](https://www.spoj.com/users/nitin201780361/)
