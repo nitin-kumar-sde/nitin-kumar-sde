@@ -1,6 +1,6 @@
 ## Hi there, I'm Nitin 👋
 
-🎩 I'm an innovative and passionate Software Engineer with 3.5+ years of experience, currently working as an SDE II at Amazon. I specialize in designing and building scalable, high-performance applications, with hands-on expertise in AWS cloud services, DevOps tools, and full-stack development.
+I'm an innovative and passionate Software Engineer with 3.5+ years of experience, currently working as an SDE II at Amazon. I specialize in designing and building scalable, high-performance applications, with hands-on expertise in AWS cloud services, DevOps tools, and full-stack development.
 
 🚀 I thrive in fast-paced, Agile environments—optimizing system performance, maintaining critical services, and driving impactful technical initiatives. 
 
@@ -43,7 +43,7 @@ I'm currently honing my skills in
 
 ---
 
-## 🌐 Find me on 
+## 🤝 Let's Connect 
 
 - 🎲 [Hacker Earth](https://www.hackerearth.com/@nitin751/)
 - 👑 [Leetcode](https://leetcode.com/u/nitin007/)
