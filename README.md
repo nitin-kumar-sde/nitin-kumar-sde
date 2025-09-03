@@ -8,13 +8,14 @@
 
 ---
 
-# 🖥️ Technologies I work with
+# 🛠️ Tech Stack
 
-- **🪂 AWS**
-- **🚁 Java**
-- **🗽 Python**
-- **🎡 DevOps**
-- **🗼 Machine Learning**
+- **💻 Programming Languages**: Java, C++, Python, Javascript.
+- **⚡ Frameworks and Libraries**: Spring Boot, REST, GraphQL, React.
+- **🗄️ Databases**: PostgreSQL, MongoDB, AWS RDS, AWS DynamoDB, Redis, MYSQL, AWS Aurora.
+- **☁️ Cloud and DevOps**: AWS, Docker, Kubernetes, Terraform, Jenkins.
+- **🤖 AI and ML**: LLMs,Vector Databases, LangChain, LangGraph, RAGs.
+
 
 ---
 
